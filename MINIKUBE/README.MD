@@ -1,8 +1,8 @@
 
 
-Minikube Installation Guide
+Minikube Installation
 
-This guide helps you install **Minikube** to create a local Kubernetes cluster.
+This bash/shell script helps you install Minikube.
 
 Prerequisites
 
